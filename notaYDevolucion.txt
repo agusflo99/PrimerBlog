@@ -1,0 +1,6 @@
+Agus, muy bien el blog, para completar las tareas:
+a. Separar los distintos parrafos.  
+b. Centrar el contenido del Blog. Esto lo podrías hacer con un container y las respectivas etiquetas div. 
+c. En cuanto a la tarea en si, faltaría colocar la firma abajo y el pie de la foto. 
+
+El resto está perfecto!
